@@ -7,9 +7,7 @@ A Retrieval-Augmented Generation (RAG) chatbot that answers questions about **yo
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-vector%20store-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-> Add a screenshot or demo GIF of the Streamlit UI here, e.g. `![Demo](docs/demo.gif)`.
-
----
+-----------------------------------------------
 
 ## Table of Contents
 - [Features](#features)
@@ -30,7 +28,7 @@ A Retrieval-Augmented Generation (RAG) chatbot that answers questions about **yo
 - [License](#license)
 - [Author](#author)
 
----
+----------------------------------
 
 ## Features
 
